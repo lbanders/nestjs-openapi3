@@ -1,6 +1,6 @@
 {
   "name": "@eropple/nestjs-openapi3",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "OpenAPI 3.x document generation, presentation, and validation for NestJS.",
   "main": "dist",
   "tags": [
@@ -46,7 +46,7 @@
     "typescript": "3.6.3"
   },
   "dependencies": {
-    "@eropple/bunyan-wrapper": "0.1.2",
+    "@eropple/bunyan-wrapper": "https://github.com/lbanders/bunyan-wrapper.git",
     "@eropple/find-up": "0.1.0",
     "@types/express": "4.17.1",
     "bunyan": "1.8.12",
